@@ -5,6 +5,8 @@ This is a set of boilerplate in order to develop smart contracts using VSCode. I
 You should have at least completed the ["start here" section on dev docs](https://developers.eos.io/eosio-home/docs) 
 
 ## Important notes
+**This setup is intended for users running mac OSX...** but I would imagine the same would work for most popular versions of linux by just replacing `brew` with whatever use use... perhaps `apt`?
+
 This will not work on its own! Before attempting to use this you must do the following:
 1. install nodeos, keosd, & cleos via docker
   * [see eosio docs for installation using docker](https://developers.eos.io/eosio-home/docs/getting-the-software)
